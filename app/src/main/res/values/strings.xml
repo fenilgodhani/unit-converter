@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">Unit Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtHintEnter">Enter number</string>
+    <string name="btnConvert">Convert</string>
+
+
+    <string-array name="unit_arrays">
+        <item>Meter to Km</item>
+        <item>Km to Meter</item>
+        <item>Meter to Centi</item>
+        <item>Celsious to fahren</item>
+        <item>Fahren to Celsious</item>
+
+    </string-array>
+
+</resources>
